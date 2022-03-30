@@ -1,0 +1,1 @@
+export const defaultListData = ["A", "B", "C", "D", "E"];
